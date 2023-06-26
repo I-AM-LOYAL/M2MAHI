@@ -46,7 +46,7 @@
 
 - `git clone https://github.com/I-AM-LOYAL/M2MAHI`
 
-- `cd MAHI`
+- `cd M2MAHI`
 
 - `python M2MAHI.py`
 
