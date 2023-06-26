@@ -2,7 +2,7 @@
 
 
 
-<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAHI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100093547522051&mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+92+923269369653)
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAHI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/profile.php?id=100093547522051&mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923269369653)
 
  
 
@@ -58,6 +58,6 @@
 
  ___This Tools is Free___</br>
 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923269369653)
 
  
