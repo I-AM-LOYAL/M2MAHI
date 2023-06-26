@@ -58,6 +58,6 @@
 
  ___This Tools is Free___</br>
 
- [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAFIA-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
+ [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923357355224)
 
  
